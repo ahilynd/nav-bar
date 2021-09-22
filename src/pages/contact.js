@@ -11,6 +11,7 @@ const Contact = () => {
         }}
         >
             <h1>Contact Information</h1>
+            <p>ahilynd@udel.edu</p>
         </div>
     );
 };

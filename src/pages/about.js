@@ -10,10 +10,25 @@ const About = () => {
             height: '100vh'
         }}
         >
-            <h1>Get To Know Me Better</h1>
+        
+            <body>
+            <h1>
+                Get To Know Me Better
+            <p>Name: Ahilyn Dipre</p>
+            <p>Pronouns: she/her/hers</p>
+            <p>Major: Computer Science BS</p>
+            </h1>
+        
+            </body>
          
         </div>
+        
+    
+
+        
     );
 };
 
+
 export default About;
+

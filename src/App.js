@@ -16,12 +16,6 @@ import MyRepository from './pages/my repository';
 function App() {
   return (
     <div className="App">
-      <h1>By: Ahilyn Dipre</h1>
-      <h2>Hello World </h2>
-      <p>Major: Computer Science BS</p>
-      <p>Pronouns: she/her/hers</p>
-      <p> Contact Info: ahilynd@udel.edu</p>
-      <p>New Main Repository?</p>
       <Router>
       <Navbar />
       <Switch>
