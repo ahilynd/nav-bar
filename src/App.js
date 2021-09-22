@@ -8,8 +8,10 @@ import ChangeLog from './pages/change log';
 import Contact from './pages/contact';
 import Movies from './pages/movies';
 import Reflections from './pages/reflections';
-//import Resources from './pages/resources';
+import Resources from './pages/resources';
 import ToDoLists from './pages/todo list';
+import MyRepository from './pages/my repository';
+
 
 function App() {
   return (
@@ -30,6 +32,10 @@ function App() {
         <Route path='/movies' component={Movies} />
         <Route path='/todo list' component={ToDoLists} />
         <Route path='/reflections' component={Reflections} />
+        <Route path='/my repository' component={MyRepository} />
+        <Route path='/resources' component={Resources} />
+
+
       </Switch>
       </Router>
 

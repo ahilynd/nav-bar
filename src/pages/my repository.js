@@ -1,4 +1,3 @@
-/*
 import React from 'react';
 
 const MyRepository = () => {
@@ -6,7 +5,7 @@ const MyRepository = () => {
         <div
         style={{
             display: 'flex',
-            justifyContent: 'Right',
+            justifyContent: 'center',
             alignItems: 'Right',
             height: '100vh'
         }}
@@ -17,4 +16,3 @@ const MyRepository = () => {
 };
 
 export default MyRepository;
-*/
