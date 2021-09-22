@@ -5,7 +5,7 @@ const Movies = () => {
         <div
         style={{
             display: 'flex',
-            justifyContent: 'Right',
+            justifyContent: 'center',
             alignItems: 'Right',
             height: '100vh'
         }}

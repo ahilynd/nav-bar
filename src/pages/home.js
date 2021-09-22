@@ -5,12 +5,12 @@ const Home = () => {
         <div
         style={{
             display: 'flex',
-            justifyContent: 'Right',
+            justifyContent: 'center',
             alignItems: 'Right',
             height: '100vh'
         }}
         >
-            <h1>Home Page</h1>
+            <h1>Welcome to Ahilyn's Page!</h1>
         </div>
     );
 };
