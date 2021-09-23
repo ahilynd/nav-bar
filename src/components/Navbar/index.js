@@ -5,33 +5,33 @@ const Navbar = () => {
     return (
         <>
         <Nav>
-            <NavLink to="/home">
+            <NavLink to="/home/">
                 <h1>Logo</h1>
             </NavLink>
             <Bars />
             <NavMenu>
-                <NavLink to="/about" activeStyle>
+                <NavLink to="/about/" activeStyle>
                     About
                 </NavLink>
-                <NavLink to='/contact' activeStyle>
+                <NavLink to='/contact/' activeStyle>
                      Contact
                 </NavLink>
-                <NavLink to='/movies' activeStyle>
+                <NavLink to='/movies/' activeStyle>
                      Movies
                 </NavLink>
-                <NavLink to='/my repository' activeStyle>
+                <NavLink to='/my repository/' activeStyle>
                      My Repository
                 </NavLink>
-                <NavLink to='/resources' activeStyle>
+                <NavLink to='/resources/' activeStyle>
                      Resources
                 </NavLink>
-                <NavLink to='/change log' activeStyle>
+                <NavLink to='/change log/' activeStyle>
                      Change Log
                  </NavLink>
-                <NavLink to='/todo list' activeStyle>
+                <NavLink to='/todo list/' activeStyle>
                      ToDo Lists
                 </NavLink>
-                <NavLink to='/reflections' activeStyle>
+                <NavLink to='/reflections/' activeStyle>
                      Reflections
                  </NavLink>
             </NavMenu>
