@@ -6,7 +6,7 @@ const Resources = () => {
         style={{
             display: 'flex',
             justifyContent: 'center',
-            alignItems: 'Right',
+            alignItems: 'center',
             height: '100vh'
         }}
         >
@@ -21,6 +21,7 @@ const Resources = () => {
         <p><a href="https://support.atlassian.com/bitbucket-cloud/docs/configure-your-dvcs-username-for-commits/">Connect Username</a></p>
         <p><a href="https://www.youtube.com/watch?v=F8s4Ng-re0E">Transfer React to Github</a></p>
         <p><a href="https://www.youtube.com/watch?v=GTj-s8hGaUM">Deploy React to GitHub</a></p>
+        <p><a href="https://www.w3schools.com/cssref/css_colors.asp">CSS Colors</a></p>
 
         </body> 
         </div>

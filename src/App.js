@@ -19,15 +19,15 @@ function App() {
       <Router>
       <Navbar />
       <Switch>
-         <Route path='/home' exact component={Home} />
-         <Route path='/about' component={About} />
-         <Route path='/change log' component={ChangeLog} />
-         <Route path='/contact' component={Contact} />
-         <Route path='/movies' component={Movies} />
-         <Route path='/todo list' component={ToDoLists} />
-         <Route path='/reflections' component={Reflections} />
-         <Route path='/my repository' component={MyRepository} />
-         <Route path='/resources' component={Resources} />
+         <Route path='/home/' exact component={Home} />
+         <Route path='/about/' component={About} />
+         <Route path='/change log/' component={ChangeLog} />
+         <Route path='/contact/' component={Contact} />
+         <Route path='/movies/' component={Movies} />
+         <Route path='/todo list/' component={ToDoLists} />
+         <Route path='/reflections/' component={Reflections} />
+         <Route path='/my repository/' component={MyRepository} />
+         <Route path='/resources/' component={Resources} />
 
 
       </Switch>
