@@ -4,7 +4,7 @@ const Contact = () => {
     return (
         <div
         style={{
-            display: 'flex',
+            display: '',
             justifyContent: 'center',
             alignItems: 'Right',
             height: '100vh'
