@@ -4,7 +4,7 @@ const Resources = () => {
     return (
         <div
         style={{
-            display: 'flex',
+            display: '',
             justifyContent: 'center',
             alignItems: 'center',
             height: '100vh'
@@ -27,8 +27,8 @@ const Resources = () => {
         <p><a href="https://www.w3schools.com/cssref/css_colors.asp">Familiarized Myself With CSS Colors</a></p>
         <p><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Colors/Color_picker_tool">More CSS Color Options</a></p>
         <p><a href="https://www.w3schools.com/cssref/css_fonts_fallbacks.asp">Familiarized With CSS Fonts</a></p>
-
-        </body> 
+        </body>
+         
         </div>
     );
 };
