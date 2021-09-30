@@ -33,6 +33,10 @@ const ChangeLog = () => {
                      <li>Started working on a todo list app on my second repository</li><a href="https://www.youtube.com/watch?v=E1E08i2UJGI">Using This For TODO app</a>
                      <li>Changed the background of my website along with the colors of the NavBar with the links under resources.</li>
                      <li>Added more repositories to my GitHub page as stated under Repositories.</li>
+
+                     <h2>Change Log 4.0:</h2>
+
+                     <li>Created a Todo List app with typescript and react. Tutuorial followed will be under resources.</li>
          
 
         </div>
