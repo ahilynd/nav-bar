@@ -16,7 +16,7 @@ const About = () => {
             <body>
             <p>Name: Ahilyn Dipre</p>
             <p>Pronouns: she/her/hers</p>
-            <p>Major: Computer Science BS</p>
+            <p>Computer Science BS</p>
             </body>
             
         
