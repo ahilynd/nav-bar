@@ -22,6 +22,11 @@ const Resources = () => {
         <p><a href="https://www.youtube.com/watch?v=F8s4Ng-re0E">Transfer React to Github</a></p>
         <p><a href="https://www.youtube.com/watch?v=GTj-s8hGaUM">Deploy React to GitHub</a></p>
         <p><a href="https://www.w3schools.com/cssref/css_colors.asp">CSS Colors</a></p>
+        <p><a href="https://www.youtube.com/watch?v=F8s4Ng-re0E">Deploying Existing Projects To GitHub</a></p>
+        <p><a href="https://www.youtube.com/watch?v=BUh12mwkH_8">Followed to Make Todo List App</a></p>
+        <p><a href="https://www.w3schools.com/cssref/css_colors.asp">Familiarized Myself With CSS Colors</a></p>
+        <p><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Colors/Color_picker_tool">More CSS Color Options</a></p>
+        <p><a href="https://www.w3schools.com/cssref/css_fonts_fallbacks.asp">Familiarized With CSS Fonts</a></p>
 
         </body> 
         </div>
