@@ -34,6 +34,9 @@ const Navbar = () => {
                 <NavLink to='/reflections/' activeStyle>
                      Reflections
                  </NavLink>
+                 <NavLink to='/movies/' activeStyle>
+                     Movies
+                 </NavLink>
             </NavMenu>
         </Nav>
         </>

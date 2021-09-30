@@ -11,6 +11,8 @@ import Reflections from './pages/reflections';
 import Resources from './pages/resources';
 import ToDoLists from './pages/todo list';
 import MyRepository from './pages/my repository';
+import Movies from './pages/movies';
+
 
 
 function App() {
@@ -28,6 +30,8 @@ function App() {
          <Route path='/reflections/' component={Reflections} />
          <Route path='/my repository/' component={MyRepository} />
          <Route path='/resources/' component={Resources} />
+         <Route path='/movies/' exact component={Movies} />
+
 
 
       </Switch>
