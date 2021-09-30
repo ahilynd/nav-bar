@@ -14,7 +14,7 @@ const About = () => {
             
             <h1>Get To Know Me Better</h1>
             <body>
-            <p>Name: Ahilyn Dipre</p>
+            <p>Ne: Ahilyn Dipre</p>
             <p>Pronouns: she/her/hers</p>
             <p>Major: Computer Science BS</p>
             </body>
