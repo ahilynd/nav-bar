@@ -16,8 +16,8 @@ const Navbar = () => {
                 <NavLink to='/contact/' activeStyle>
                      Contact
                 </NavLink>
-                <NavLink to='/movies/' activeStyle>
-                     Movies
+                <NavLink to='/my apps/' activeStyle>
+                     Applications
                 </NavLink>
                 <NavLink to='/my repository/' activeStyle>
                      My Repository
