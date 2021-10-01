@@ -37,6 +37,10 @@ const ChangeLog = () => {
                      <h2>Change Log 4.0:</h2>
 
                      <li>Created a Todo List app with typescript and react. Tutuorial followed will be under resources.</li>
+                     <li>Started working on a random movie generator with CSS/JavaScript/HTML, but wasn't able to finish it before due date.</li>
+                     <li>Made couple of changes throughout my website that has the navigation bar, under the tabs.</li>
+                     <li>Familiarized myself with TypeScript as seen on my ToDo app.</li>
+                     <li>Helped a fellow classmate deploy his website to Github from VSCode :)</li>
          
 
         </div>
