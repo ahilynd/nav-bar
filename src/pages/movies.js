@@ -1,5 +1,3 @@
-import React from 'react';
-
 const Movies = () => {
     return (
         <div
@@ -10,9 +8,10 @@ const Movies = () => {
             height: '100vh'
         }}
         >
-            <h1>movies</h1>
+            <h1>Movie Generator</h1>
+            
         
-        </div>
+        </div>  
     );
 };
 
