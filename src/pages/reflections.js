@@ -36,6 +36,17 @@ const Reflections = () => {
                  making progress on REACT and learn more tricks.
              </p>
          </body>
+
+         <h2>September 24th-30th 2021</h2>
+         <body>
+             <p>
+                 These weeks working on the portfolio have been frustrating at times, but so rewarding. I think I'm definetely better 
+                 off now with CSS, JavaScript, REACT and TypeScript more than I was when I started working on it. I knew basics beforehand
+                 but now I have knowledge to be able to do more things. This week I concentrated on TypeScript/REACT and JS as you will see 
+                 with my ToDo List app. For some reason the code progress bar doesn't note it on my TODO repository and only says it's HTML, but 
+                 it's not just that! I plan on continuing to work on my portfolio even after the due date on my own time to keep bettering my skills.
+             </p>
+         </body>
           
         
 

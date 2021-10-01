@@ -3,7 +3,7 @@
 }
 
 body {
-  background-color: lightsalmon;
+  background-color: orange;
 }
 
 .App-logo {
@@ -29,7 +29,7 @@ body {
 }
 
 .App-link {
-  color: #61dafb;
+  color: black;
 }
 
 @keyframes App-logo-spin {
