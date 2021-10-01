@@ -41,6 +41,7 @@ const ChangeLog = () => {
                      <li>Made couple of changes throughout my website that has the navigation bar, under the tabs.</li>
                      <li>Familiarized myself with TypeScript as seen on my ToDo app.</li>
                      <li>Helped a fellow classmate deploy his website to Github from VSCode :)</li>
+                     <li>Followed tutorial for a hangman game, it's not 100% how I want it to be so I will come back to it and change things around.</li>
          
 
         </div>
